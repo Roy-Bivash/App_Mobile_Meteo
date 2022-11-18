@@ -1,8 +1,8 @@
 <h1>APPLICATION DE METEO EN REACT NATIVE</h1>
-
+<br><br>
 <p>
 Application mobile de météo faite en javascript grace à react native
-<br>
+<br><br>
 Pour utiliser l'app :
 <br>
 1/ cloner le repository : git clone https://github.com/meteo-group/meteo-react-native
